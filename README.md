@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Prerequisites and Installation](https://github.com/NetProtect1/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/NetProtect1/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/NetProtect1/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NetProtect1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
 
