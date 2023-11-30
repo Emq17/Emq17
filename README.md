@@ -20,7 +20,6 @@
 
 
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: [
-](https://www.linkedin.com/in/emmette-q-517a03231/)https://www.linkedin.com/in/emmette-q-517a03231/
+[linkedin]: https://www.linkedin.com/in/emmette-q-517a03231
 
 
