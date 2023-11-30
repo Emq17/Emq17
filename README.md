@@ -20,7 +20,7 @@
 
 
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: linkedin.com/in/emmette-q-517a03231![image](https://github.com/Emq17/Emq17/assets/147126755/2ccd0572-c4eb-4aa4-a46a-63da181b5b21)
-
+[linkedin]: [
+](https://www.linkedin.com/in/emmette-q-517a03231/)https://www.linkedin.com/in/emmette-q-517a03231/
 
 
