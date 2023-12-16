@@ -11,6 +11,7 @@
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols)
+- <b>Virtual Private Networks (VPNs)</b>
 
 <h2>🤳  Connect with me:</h2>
 
