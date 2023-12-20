@@ -14,7 +14,9 @@
 - <b>GitLab</b>
   - [Implementing Version Control and Repository Management](https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab)
 - <b>Java</b>
+  - [Array Sorting and Hashmaps](https://github.com/Emq17/Array-Sorting-and-Hashmaps)
   - [Survey Program](https://github.com/Emq17/Survey-Program)
+ 
 - <b>Virtual Private Networks (VPNs)</b>
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 
