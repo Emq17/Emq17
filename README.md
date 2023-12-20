@@ -11,13 +11,12 @@
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols) -->
-- <b>GitLab</b>
+- <b>GitLab</b> 
   - [Implementing Version Control and Repository Management](https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab)
-- <b>Java</b>
+- <b>Java</b> 
   - [Array Sorting and Hashmaps](https://github.com/Emq17/Array-Sorting-and-Hashmaps)
   - [Survey Program](https://github.com/Emq17/Survey-Program)
- 
-- <b>Virtual Private Networks (VPNs)</b>
+- <b>Virtual Private Networks (VPNs)</b> 
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 
 <h2>🤳  Connect with me:</h2>
