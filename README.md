@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols) -->
+- <b>Microsoft Azure</b> 
+  - [Deploying Virtual Machines](https://github.com/Emq17/Creating-Virtual-Machine-Azure)
 - <b>Virtual Private Networks (VPNs)</b> 
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 - <b>GitLab</b> 
