@@ -18,7 +18,7 @@
   - [Survey Program](https://github.com/Emq17/Survey-Program)
   - [Touch Typing](https://github.com/Emq17/Touch-Typing/tree/main)
 - <b>Python</b>
-  - [Password Automation](https://github.com/Emq17/Touch-Typing/tree/main)
+  - [Password Automation](https://github.com/Emq17/Password-Automation/tree/main)
 - <b>SQL</b>
   - [Sample Database Management](https://github.com/Emq17/Sample-Database-Management/tree/main)
   - [Creating & Manipulating a Database](https://github.com/Emq17/Creating-And-Manipulating-Database/tree/main)
