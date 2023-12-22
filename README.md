@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Knowledge in Action: My Projects</h2>
 
-<!-- [osTicket: Post-Installation Configuration](https://github.com/NetProtect1/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols) -->
 - <b>Microsoft Azure</b> 
   - [Establishing Virtual Machines with Remote Desktop](https://github.com/Emq17/Creating-Virtual-Machine-Azure)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols)
 - <b>osTicket (Help Desk Ticketing System)</b> 
   - [osTicket: Prerequisites and Installation](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main)
+  - [osTicket: Post-Installation Configuration](https://github.com/NetProtect1/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples)
 - <b>Virtual Private Networks (VPNs)</b> 
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 - <b>GitLab</b> 
