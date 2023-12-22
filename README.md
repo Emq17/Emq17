@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Knowledge in Action: My Projects</h2>
 
+- <b>Virtual Private Networks (VPNs)</b> 
+  - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 - <b>Microsoft Azure</b> 
   - [Establishing Virtual Machines with Remote Desktop](https://github.com/Emq17/Creating-Virtual-Machine-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
@@ -10,8 +12,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main)
   - [osTicket: Post-Installation Configuration](https://github.com/NetProtect1/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples)
-- <b>Virtual Private Networks (VPNs)</b> 
-  - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
 - <b>GitLab</b> 
   - [Implementing Version Control and Repository Management](https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab)
 - <b>Python</b>
