@@ -23,8 +23,8 @@
   - [Touch Type Challenge](https://github.com/Emq17/Touch-Typing/tree/main)
   - [Survey Program](https://github.com/Emq17/Survey-Program)
 - <b>SQL</b>
-  - [Sample Database Management](https://github.com/Emq17/Sample-Database-Management/tree/main)
   - [Creating & Manipulating a Database](https://github.com/Emq17/Creating-And-Manipulating-Database/tree/main)
+  - [Sample Database Management](https://github.com/Emq17/Sample-Database-Management/tree/main)
 
 <h2>🤳  Connect with me:</h2>
 
