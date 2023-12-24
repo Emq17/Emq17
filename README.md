@@ -1,18 +1,15 @@
-<h1 align="center">Hi! I'm Emmette, an <a href="https://linkedin.com/in/emmette-quiambao-517a03231">IT Professional</a> ☺</h1>
-
-<h1 align="center">👨‍💻 Knowledge in Action: My Projects</h1>
-
-
+<h1 align="center">Hi, I'm Emmette, an <a href="https://linkedin.com/in/emmette-quiambao-517a03231">IT Professional</a> ☺</h1>
+<br>
+<h1 align="center">👨‍💻 Knowledge in Action: My Projects 👨‍💻</h1>
 
 
 
-
-
-
+<br>
+<br>
 
 
 <p align="center">
-  <b>Microsoft Azure</b>
+  <b>- Microsoft Azure -</b>
 </p>
 
 <p align="center">
@@ -37,52 +34,46 @@
 
 
 
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 
 <p align="center">
-  <b>osTicket (Help Desk Ticketing System)</b>
+  <b>- Help Desk Ticketing System -</b>
 </p>
-
-
+<p align="center">
+  <b>(osTicket)</b>
+</p>
 
  <p align="center">
-  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
+  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">Prerequisites and Installation</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a>
+  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">Post-Installation Configuration</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Ticket Lifecycle Examples</a>
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Ticket Lifecycle Examples</a>
 </p>
 
-
-
+<br>
+<br>
 
 <p align="center">
-  <b>Virtual Private Networks (VPNs)</b>
+  <b>- Virtual Private Networks (VPNs) -</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
 </p>
 
-
-
-
+<br>
+<br>
 
 
 <p align="center">
-  <b>Gitlab</b>
+  <b>- Gitlab -</b>
 </p>
 
 <p align="center">
@@ -90,13 +81,11 @@
 </p>
 
 
-
-
-
-
+<br>
+<br>
 
 <p align="center">
-  <b>Structured Query Language (SQL)</b>
+  <b>- Structured Query Language (SQL) -</b>
 </p>
 
 <p align="center">
@@ -109,15 +98,12 @@
 </p>
 
 
-
-
-
-
-
+<br>
+<br>
 
 
 <p align="center">
-  <b>Python</b>
+  <b>- Python -</b>
 </p>
 
 <p align="center">
@@ -125,17 +111,13 @@
 </p>
  
 
-
-
-
-
-
+<br>
+<br>
 
 
 <p align="center">
-  <b>Java</b>
+  <b>- Java -</b>
 </p>
-
 
 
 <p align="center">
@@ -155,34 +137,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
  
 
 <h1 align="center">Connect With Me:</h1>
 
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/emmetteq">
