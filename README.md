@@ -141,10 +141,7 @@
  
 
 <h1 align="center">Connect With Me:</h1>
-<br>
-<p align="center">
-  :)
-</p>
+
 
 
 <br>
