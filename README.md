@@ -129,7 +129,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/emmetteq">
-    <img alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Josh | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
   </a>
 </p>
 
@@ -137,8 +137,6 @@
 
 <!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/Josh 
-[linkedin]: https://linkedin.com/in/emmetteq -->
+[instagram]: https://www.instagram.com/Josh -->
 
 
