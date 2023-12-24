@@ -1,15 +1,11 @@
 <h1 align="center">👨‍💻 Knowledge in Action: My Projects 👨‍💻</h1>
 
-
-
 <br>
 <br>
-
 
 <p align="center">
   <b>- Microsoft Azure & Active Directory -</b>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
@@ -31,11 +27,8 @@
   <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
 </p>
 
-
-
 <br>
 <br>
-
 
 <p align="center">
   <b>- Help Desk Ticketing System -</b>
@@ -70,7 +63,6 @@
 <br>
 <br>
 
-
 <p align="center">
   <b>- GitLab -</b>
 </p>
@@ -78,7 +70,6 @@
 <p align="center">
   <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
 </p>
-
 
 <br>
 <br>
@@ -91,15 +82,12 @@
   <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
 </p>
 
-
 <br>
 <br>
-
 
 <p align="center">
   <b>- Python -</b>
@@ -109,40 +97,29 @@
 <a href="https://github.com/Emq17/Password-Automation/tree/main">Password Automation</a>
 </p>
  
-
 <br>
 <br>
-
 
 <p align="center">
   <b>- Java -</b>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a></b>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
 </p>
  
-
 <p align="center">
   <a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
 </p>
 
-
-
-
 <br>
 <br>
- 
 
 <h1 align="center">Connect With Me:</h1>
-
-
 
 <br>
 
@@ -151,8 +128,6 @@
     <img alt="Josh | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
   </a>
 </p>
-
-
 
 <!-- [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
