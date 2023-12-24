@@ -7,24 +7,12 @@
 
 
 
-<p align="center">
-  <b>&#8226; Virtual Private Networks (VPNs)</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
-</p>
-
-
-
-
-
 
 
 
 
 <p align="center">
-  <b>&#8226; Microsoft Azure</b>
+  <b>Microsoft Azure</b>
 </p>
 
 <p align="center">
@@ -59,10 +47,11 @@
 
 
 
-
 <p align="center">
-  <b>&#8226; osTicket (Help Desk Ticketing System)</b>
+  <b>osTicket (Help Desk Ticketing System)</b>
 </p>
+
+
 
  <p align="center">
   <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
@@ -79,8 +68,13 @@
 
 
 
+<p align="center">
+  <b>Virtual Private Networks (VPNs)</b>
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
+</p>
 
 
 
@@ -88,7 +82,7 @@
 
 
 <p align="center">
-  <b>&#8226; Gitlab</b>
+  <b>Gitlab</b>
 </p>
 
 <p align="center">
@@ -101,12 +95,8 @@
 
 
 
-
-
-
-
 <p align="center">
-  <b>&#8226; Structured Query Language (SQL)</b>
+  <b>Structured Query Language (SQL)</b>
 </p>
 
 <p align="center">
@@ -126,10 +116,8 @@
 
 
 
-
-
 <p align="center">
-  <b>&#8226; Python</b>
+  <b>Python</b>
 </p>
 
 <p align="center">
@@ -144,12 +132,10 @@
 
 
 
-
-
-
 <p align="center">
-  <b>&#8226; Java</b>
+  <b>Java</b>
 </p>
+
 
 
 <p align="center">
@@ -165,6 +151,24 @@
 <p align="center">
   <a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
