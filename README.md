@@ -3,11 +3,11 @@
 <h1 align="center">👨‍💻 Knowledge in Action: My Projects</h1>
 
 <p align="center">
-  <b>Virtual Private Networks (VPNs)</b>
+  <b>&#8226; Virtual Private Networks (VPNs)</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
 </p>
 
 
@@ -16,27 +16,27 @@
 
 
 <p align="center">
-  <b>Microsoft Azure</b>
+  <b>&#8226; Microsoft Azure</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a>
+  <b>&#8226; <a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Emq17/Building-Intuition-For-DNS">Building Intuition For DNS</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Building-Intuition-For-DNS">Building Intuition For DNS</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares and Permissions</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares and Permissions</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+  <b>&#8226; <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
 </p>
 
 
@@ -47,54 +47,54 @@
 </p> -->
 
 <p align="center">
- <b>osTicket</b>
+  <b>&#8226; osTicket</b>
 </p>
 
  <p align="center">
-<a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
+  <b>&#8226; <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a>
+  <b>&#8226; <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Ticket Lifecycle Examples</a>
-</p>
-
-
-
-<p align="center">
- <b>Gitlab</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
+  <b>&#8226; <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Ticket Lifecycle Examples</a>
 </p>
 
 
 
-
 <p align="center">
- <b>Structured Query Language (SQL)</b>
+  <b>&#8226; Gitlab</b>
 </p>
 
 <p align="center">
-<a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
 </p>
 
 
 
 
+<p align="center">
+  <b>&#8226; Structured Query Language (SQL)</b>
+</p>
+
+<p align="center">
+  <b>&#8226; <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
+</p>
 
 
 <p align="center">
- <b>Python</b>
+  <b>&#8226; <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
+</p>
+
+
+
+
+
+
+<p align="center">
+  <b>&#8226; Python</b>
 </p>
 
 <p align="center">
@@ -105,21 +105,22 @@
 
 
 <p align="center">
- <b>Java</b>
+  <b>&#8226; Java</b>
 </p>
 
+
 <p align="center">
-<a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a></b>
+</p>
+
+
+<p align="center">
+  <b>&#8226; <a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
 </p>
  
 
 <p align="center">
-<a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
-</p>
- 
-
-<p align="center">
-<a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
+  <b>&#8226; <a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
 </p>
 
  
@@ -129,7 +130,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/emmetteq">
-    <img alt="Josh | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
+    <img alt="Josh | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
   </a>
 </p>
 
