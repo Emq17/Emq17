@@ -128,7 +128,7 @@
 
 
 <p align="center">
-  <a href="your_linkedin_profile_link">
+  <a href="https://linkedin.com/in/emmetteq">
     <img alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 </p>
