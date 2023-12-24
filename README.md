@@ -20,8 +20,8 @@
   - [Password Automation](https://github.com/Emq17/Password-Automation/tree/main)
 - <b>Java</b> 
   - [Array Sorting and Hashmaps](https://github.com/Emq17/Array-Sorting-and-Hashmaps)
-  - [Survey Program](https://github.com/Emq17/Survey-Program)
   - [Touch Type Challenge](https://github.com/Emq17/Touch-Typing/tree/main)
+  - [Survey Program](https://github.com/Emq17/Survey-Program)
 - <b>SQL</b>
   - [Sample Database Management](https://github.com/Emq17/Sample-Database-Management/tree/main)
   - [Creating & Manipulating a Database](https://github.com/Emq17/Creating-And-Manipulating-Database/tree/main)
