@@ -7,6 +7,7 @@
 - <b>Microsoft Azure</b> 
   - [Establishing Virtual Machines with Remote Desktop](https://github.com/Emq17/Creating-Virtual-Machine-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Building Intuition For DNS](https://github.com/Emq17/Building-Intuition-For-DNS)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols)
 - <b>osTicket (Help Desk Ticketing System)</b> 
   - [osTicket: Prerequisites and Installation](https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main)
