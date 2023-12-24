@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Emmette, an <a href="https://linkedin.com/in/emmette-quiambao-517a03231">IT Professional</a> ☺</h1>
-<br>
-<br>
+<p align="center">
+  Hi, I'm Emmette, an <a href="https://linkedin.com/in/emmette-quiambao-517a03231">IT Professional</a> ☺
+</p>
+
 <h1 align="center">👨‍💻 Knowledge in Action: My Projects 👨‍💻</h1>
 
 
