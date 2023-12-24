@@ -139,6 +139,6 @@
 
 
 [instagram]: https://www.instagram.com/Josh -->
-[linkedin]: https://www.linkedin.com/in/emmetteq/
+[linkedin]: https://linkedin.com/in/emmetteq
 
 
