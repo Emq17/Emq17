@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  <b>- Microsoft Azure -</b>
+  <b>- Microsoft Azure & Active Directory -</b>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
@@ -71,7 +72,7 @@
 
 
 <p align="center">
-  <b>- Gitlab -</b>
+  <b>- GitLab -</b>
 </p>
 
 <p align="center">
@@ -140,6 +141,7 @@
  
 
 <h1 align="center">Connect With Me:</h1>
+<br>
 <p align="center">
   :)
 </p>
