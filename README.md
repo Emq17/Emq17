@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Knowledge in Action: My Projects</h1>
 
 <p align="center">
-  - <b>Virtual Private Networks (VPNs)</b> -
+  <b>Virtual Private Networks (VPNs)</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  - <b>Microsoft Azure</b> -
+  <b>Microsoft Azure</b>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p> -->
 
 <p align="center">
- - <b>osTicket</b> -
+ <b>osTicket</b>
 </p>
 
  <p align="center">
@@ -65,7 +65,7 @@
 
 
 <p align="center">
- - <b>Gitlab</b> -
+ <b>Gitlab</b>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 
 
 <p align="center">
- - <b>Structured Query Language (SQL)</b> -
+ <b>Structured Query Language (SQL)</b>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 
 
 <p align="center">
- - <b>Python</b> -
+ <b>Python</b>
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@
 
 
 <p align="center">
- - <b>Java</b> -
+ <b>Java</b>
 </p>
 
 <p align="center">
