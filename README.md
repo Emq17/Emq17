@@ -2,13 +2,21 @@
 
 <h1 align="center">👨‍💻 Knowledge in Action: My Projects</h1>
 
+
+
+
+
+
 <p align="center">
   <b>&#8226; Virtual Private Networks (VPNs)</b>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
+  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
 </p>
+
+
+
 
 
 
@@ -20,47 +28,62 @@
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
+  <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a>
+  <a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Building-Intuition-For-DNS">Building Intuition For DNS</a>
+  <a href="https://github.com/Emq17/Building-Intuition-For-DNS">Building Intuition For DNS</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares and Permissions</a>
+  <a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares and Permissions</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+  <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
 </p>
 
 
 
 
-<!-- <p align="center">
-  - <b>Help Desk Ticketing System</b> -
-</p> -->
+
+
+
+
+
+
+
+
+
 
 <p align="center">
-  <b>&#8226; osTicket</b>
+  <b>&#8226; osTicket (Help Desk Ticketing System)</b>
 </p>
 
  <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
+  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a>
+  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a>
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Ticket Lifecycle Examples</a>
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Ticket Lifecycle Examples</a>
 </p>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,8 +92,15 @@
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
+  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
 </p>
+
+
+
+
+
+
+
 
 
 
@@ -80,13 +110,18 @@
 </p>
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
+  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
 </p>
 
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
+  <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
 </p>
+
+
+
+
+
 
 
 
@@ -104,24 +139,41 @@
 
 
 
+
+
+
+
+
+
+
+
 <p align="center">
   <b>&#8226; Java</b>
 </p>
 
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a></b>
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a></b>
 </p>
 
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
+  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
 </p>
  
 
 <p align="center">
-  <b>&#8226; <a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
+  <a href="https://github.com/Emq17/Survey-Program">Survey Program</a>
 </p>
+
+
+
+
+
+
+
+
+
 
  
 
