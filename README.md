@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Emmette, an <a href="https://linkedin.com/in/emmette-quiambao-517a03231">IT Professional</a> ☺</h1>
 
-<h2>👨‍💻 Knowledge in Action: My Projects</h2>
+<h1 align="center">👨‍💻 Knowledge in Action: My Projects</h1>
 
 - <b>Virtual Private Networks (VPNs)</b> 
   - [Observing the Effect of a VPN on IP Addressing](https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN)
