@@ -1,5 +1,4 @@
-<h1 align="center">Hi! My name is Emmette from Orlando, FL ☀️🌴
-I am an <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">IT Professional</a> and <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">Programmer</a>.</h1>
+<h1 align="center">Greetings! I'm Emmette, an <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">IT Professional</a> and a <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">Programmer</a> from Orlando, FL ☀️🌴</h1>
 
 
 <h1 align="center">Knowledge In Action</h1><p 
