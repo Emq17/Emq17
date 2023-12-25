@@ -1,4 +1,7 @@
-<h1 align="center">Knowledge in Action: My Projects 👨‍💻</h1>
+
+<h1 align="center">Knowledge In Action</h1><p 
+
+<h1 align="center">👨‍💻 My Projects 👨‍💻</h1>
 
 <br>
 <br>
