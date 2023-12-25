@@ -1,6 +1,6 @@
-<h1 align="center">Greetings! I'm Emmette, an <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">IT Professional</a> and a <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">Programmer</a> from Orlando, FL ☀️🌴</h1>
+<h1 align="center">Greetings! I'm Emmette, a <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">tech enthusiast</a> from Orlando, FL ☀️🌴
 
-
+  
 <h1 align="center">Knowledge In Action</h1><p 
 
 <h1 align="center">👨‍💻 My Projects 👨‍💻</h1>
