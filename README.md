@@ -1,3 +1,6 @@
+<h1>Welcome! My name is Emmette from Orlando, FL ☀️🌴 I am an<br/><a href="https://linkedin.com/in/emmetteq">IT Professional</a> and
+<br/><a href="https://linkedin.com/in/emmetteq">Programmer</a>
+
 
 <h1 align="center">Knowledge In Action</h1><p 
 
