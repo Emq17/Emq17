@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+  <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Network Protocols With Wireshark</a>
 </p>
 
 <br>
