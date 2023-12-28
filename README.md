@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <b>- Microsoft Azure & Active Directory -</b>
+  <b>- Microsoft Azure | Active Directory -</b>
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares and Permissions</a>
+  <a href="https://github.com/Emq17/Network-File-Shares-And-Permissions">Network File Shares And Permissions</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) and Network Protocols With Wireshark</a>
+  <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups (NSGs) And Network Protocols With Wireshark</a>
 </p>
 
 <br>
@@ -43,7 +43,7 @@
 </p>
 
  <p align="center">
-  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">Prerequisites and Installation</a>
+  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">Prerequisites And Installation</a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Agent Insights into Ticket Lifecycles</a>
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Agent Insights Into Ticket Lifecycles</a>
 </p>
 
 <br>
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing</a>
+  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing The Effect Of A VPN On IP Addressing</a>
 </p>
 
 <br>
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management</a>
+  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control And Repository Management</a>
 </p>
 
 <br>
@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating a Database</a>
+  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating A Database</a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps</a></b>
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting And Hashmaps</a></b>
 </p>
 
 <p align="center">
