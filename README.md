@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
+  <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines With Remote Desktop</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a>
+  <a href="https://github.com/NetProtect1/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-Premises Active Directory Within Azure VMs</a>
 </p>
 
 <p align="center">
