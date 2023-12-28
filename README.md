@@ -47,11 +47,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">Post-Installation Configuration</a>
+  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">Administrative Configuration Duties</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Ticket Lifecycle Examples</a>
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Agent Insights into Ticket Lifecycles</a>
 </p>
 
 <br>
