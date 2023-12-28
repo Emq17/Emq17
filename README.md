@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Touch Type Challenge</a>
+  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Your Keyboard Skills</a>
 </p>
  
 <p align="center">
