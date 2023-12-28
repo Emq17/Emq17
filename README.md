@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating & Manipulating A Database</a>
+  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating And Manipulating A Database</a>
 </p>
 
 <p align="center">
