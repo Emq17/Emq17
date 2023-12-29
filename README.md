@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Agent Insights Into Ticket Lifecycles</a>
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">Insights Into Ticket Lifecycles</a>
 </p>
 
 <br>
