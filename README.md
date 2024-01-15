@@ -129,11 +129,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting And Hashmaps</a></b>
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">VLOOKUP Function</a></b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Keyboard Skills</a>
+  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Pivot Tables</a>
 </p>
 
 <br>
