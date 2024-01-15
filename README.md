@@ -129,7 +129,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">VLOOKUP Function</a></b>
+  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP Function</a></b>
 </p>
 
 <p align="center">
