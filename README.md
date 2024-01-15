@@ -124,6 +124,21 @@
 <br>
 <br>
 
+<p align="center">
+  <b>- Microsoft Excel -</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting And Hashmaps</a></b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Keyboard Skills</a>
+</p>
+
+<br>
+<br>
+
 <h1 align="center">Connect With Me:</h1>
 
 <br>
