@@ -129,11 +129,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP Function</a></b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Pivot Tables</a>
+  <a href="https://github.com/Emq17/VLOOKUP-Function">VLookup & Pivot Tables</a></b>
 </p>
 
 <br>
