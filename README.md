@@ -139,6 +139,17 @@
 <br>
 <br>
 
+<p align="center">
+  <b>- Typing Speed -</b>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YD124ZgZlY0">youtube.com/watch?v=YD124ZgZlY0</a></b>
+</p>
+
+<br>
+<br>
+
 <h1 align="center">Connect With Me:</h1>
 
 <br>
