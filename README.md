@@ -1,4 +1,4 @@
-<h1 align="center">Emmette Q. | Orlando, FL. ☀️🌴 | <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">Data | IT | Software</a>
+<h1 align="center">Emmette Q. | Orlando, FL. ☀️🌴 | <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">IT | Software | Databases</a>
 
   
 <h1 align="center">Knowledge In Action</h1><p 
