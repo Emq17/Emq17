@@ -22,7 +22,6 @@ I build and iterate on real projects across web applications, data, and IT infra
 <p align="center">
   <a href="https://github.com/Emq17/dog-site">Playful Pet UI</a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Emq17/Password-Automation/tree/main">Password Automation</a>
 </p>
@@ -43,12 +42,9 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 
 <br/>
+<br/>
 
 <p align="center"><b>🖥️ IT, Cloud & Infrastructure</b></p>
-
-<p align="center">
-  <b>- Microsoft Azure / Active Directory / Networking -</b>
-</p>
 
 <p align="center">
   <a href="https://github.com/Emq17/Creating-Virtual-Machine-Azure">Establishing Virtual Machines with Remote Desktop</a>
@@ -67,6 +63,7 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 
 <br/>
+<br/>
 
 <p align="center"><b>📊 Excel</b></p>
 
@@ -74,6 +71,7 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
 </p>
 
+<br/>
 <br/>
 
 <p align="center"><b>🔐 VPNs & Version Control</b></p>
@@ -85,6 +83,7 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management (GitLab)</a>
 </p>
 
+<br/>
 <br/>
 
 <p align="center"><b>🎫 Help Desk Ticketing (osTicket)</b></p>
@@ -100,8 +99,9 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 
 <br/>
+<br/>
 
-<p align="center"><b>⌨️ Typing Speed</b></p>
+<p align="center"><b>⌨️ Keyboard Proficiency</b></p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YD124ZgZlY0">youtube.com/watch?v=YD124ZgZlY0</a>
