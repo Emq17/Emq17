@@ -1,6 +1,6 @@
 <h1 align="center">Emmette Q. | Orlando, FL ☀️🌴 | <a href="https://linkedin.com/in/emmetteq" style="text-decoration:none;">Let's Connect</a></h1>
 
-<h2 align="center">Knowledge in Action</h2>
+<p align="center"><b>Knowledge in Action</b></p>
 
 <p align="center">
 I build and iterate on real projects across web applications, data, and IT infrastructure, focused on turning ideas and processes into reliable, working systems.
@@ -8,24 +8,11 @@ I build and iterate on real projects across web applications, data, and IT infra
 
 <br/>
 
-<h2 align="center">🧩 Web & Application Development</h2>
+<p align="center"><b>🧩 Web & Application Development</b></p>
 
 <p align="center">
   <a href="https://github.com/Emq17/spring-angular-hotel-booking-service">Spring + Angular Hotel Booking System</a>
 </p>
-<p align="center">
-  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating and Manipulating a Database (SQL)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps (Java)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Survey-Program">Survey Program (Java)</a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Emq17/coffee-shop">Coffee Shop Website</a>
 </p>
@@ -42,10 +29,22 @@ I build and iterate on real projects across web applications, data, and IT infra
 <p align="center">
   <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Keyboard Skills</a>
 </p>
+<p align="center">
+  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating and Manipulating a Database (SQL)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps (Java)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Survey-Program">Survey Program (Java)</a>
+</p>
 
 <br/>
 
-<h2 align="center">🖥️ IT, Cloud & Infrastructure</h2>
+<p align="center"><b>🖥️ IT, Cloud & Infrastructure</b></p>
 
 <p align="center">
   <b>- Microsoft Azure / Active Directory / Networking -</b>
@@ -69,7 +68,7 @@ I build and iterate on real projects across web applications, data, and IT infra
 
 <br/>
 
-<h2 align="center">📊 Excel</h2>
+<p align="center"><b>📊 Excel</b></p>
 
 <p align="center">
   <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
@@ -77,7 +76,7 @@ I build and iterate on real projects across web applications, data, and IT infra
 
 <br/>
 
-<h2 align="center">🔐 VPNs & Version Control</h2>
+<p align="center"><b>🔐 VPNs & Version Control</b></p>
 
 <p align="center">
   <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing (ProtonVPN)</a>
@@ -88,7 +87,7 @@ I build and iterate on real projects across web applications, data, and IT infra
 
 <br/>
 
-<h2 align="center">🎫 Help Desk Ticketing (osTicket)</h2>
+<p align="center"><b>🎫 Help Desk Ticketing (osTicket)</b></p>
 
 <p align="center">
   <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
@@ -102,7 +101,7 @@ I build and iterate on real projects across web applications, data, and IT infra
 
 <br/>
 
-<h2 align="center">⌨️ Typing Speed</h2>
+<p align="center"><b>⌨️ Typing Speed</b></p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=YD124ZgZlY0">youtube.com/watch?v=YD124ZgZlY0</a>
