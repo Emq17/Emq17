@@ -6,11 +6,26 @@
 I build and iterate on real projects across web applications, data, and IT infrastructure, focused on turning ideas and processes into reliable, working systems.
 </p>
 
+<br/>
+
 <h2 align="center">🧩 Web & Application Development</h2>
 
 <p align="center">
   <a href="https://github.com/Emq17/spring-angular-hotel-booking-service">Spring + Angular Hotel Booking System</a>
 </p>
+<p align="center">
+  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating and Manipulating a Database (SQL)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps (Java)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Survey-Program">Survey Program (Java)</a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Emq17/coffee-shop">Coffee Shop Website</a>
 </p>
@@ -21,30 +36,14 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/Emq17/dog-site">Playful Pet UI</a>
 </p>
 
-<h2 align="center">⚙️ Backend, Data & Automation</h2>
-
 <p align="center">
-  <b>- Java / SQL / Python -</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Emq17/Creating-And-Manipulating-A-Database/tree/main">Creating and Manipulating a Database (SQL)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Sample-Database-Management/tree/main">Sample Database Management</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Password-Automation/tree/main">Password Automation (Python)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Array-Sorting-and-Hashmaps">Array Sorting and Hashmaps (Java)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Survey-Program">Survey Program (Java)</a>
+  <a href="https://github.com/Emq17/Password-Automation/tree/main">Password Automation</a>
 </p>
 <p align="center">
   <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Keyboard Skills</a>
 </p>
+
+<br/>
 
 <h2 align="center">🖥️ IT, Cloud & Infrastructure</h2>
 
@@ -68,6 +67,27 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups and Network Protocols (Wireshark)</a>
 </p>
 
+<br/>
+
+<h2 align="center">📊 Excel</h2>
+
+<p align="center">
+  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
+</p>
+
+<br/>
+
+<h2 align="center">🔐 VPNs & Version Control</h2>
+
+<p align="center">
+  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing (ProtonVPN)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management (GitLab)</a>
+</p>
+
+<br/>
+
 <h2 align="center">🎫 Help Desk Ticketing (osTicket)</h2>
 
 <p align="center">
@@ -80,20 +100,7 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Insights Into Ticket Lifecycles</a>
 </p>
 
-<h2 align="center">🔐 VPNs & Version Control</h2>
-
-<p align="center">
-  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing (ProtonVPN)</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management (GitLab)</a>
-</p>
-
-<h2 align="center">📊 Excel</h2>
-
-<p align="center">
-  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
-</p>
+<br/>
 
 <h2 align="center">⌨️ Typing Speed</h2>
 
