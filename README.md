@@ -42,6 +42,9 @@ I build and iterate on real projects across web applications, data, and IT infra
 <p align="center">
   <a href="https://github.com/Emq17/Survey-Program">Survey Program (Java)</a>
 </p>
+<p align="center">
+  <a href="https://github.com/Emq17/Touch-Typing/tree/main">Elevate Keyboard Skills</a>
+</p>
 
 <h2 align="center">🖥️ IT, Cloud & Infrastructure</h2>
 
@@ -63,4 +66,37 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 <p align="center">
   <a href="https://github.com/NetProtect1/Network-Security-Groups-and-Inspecting-Network-Protocols">Network Security Groups and Network Protocols (Wireshark)</a>
+</p>
+
+<h2 align="center">🎫 Help Desk Ticketing (osTicket)</h2>
+
+<p align="center">
+  <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">osTicket: Prerequisites and Installation</a>
+</p>
+<p align="center">
+  <a href="https://github.com/NetProtect1/osTicket-Post-Installation-Configuration">osTicket: Administrative Configuration Duties</a>
+</p>
+<p align="center">
+  <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Insights Into Ticket Lifecycles</a>
+</p>
+
+<h2 align="center">🔐 VPNs & Version Control</h2>
+
+<p align="center">
+  <a href="https://github.com/Emq17/Observing-IP-Addresses-Through-ProtonVPN">Observing the Effect of a VPN on IP Addressing (ProtonVPN)</a>
+</p>
+<p align="center">
+  <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management (GitLab)</a>
+</p>
+
+<h2 align="center">📊 Excel</h2>
+
+<p align="center">
+  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
+</p>
+
+<h2 align="center">⌨️ Typing Speed</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YD124ZgZlY0">youtube.com/watch?v=YD124ZgZlY0</a>
 </p>
