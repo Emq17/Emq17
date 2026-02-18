@@ -63,8 +63,9 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
 
 <p align="center">
-  Upcoming projects focused on building interactive dashboards for business performance, operational metrics, and decision support.
+  <a href="https://tableau.com">Interactive dashboards for business performance, operational metrics, and decision support.</a>
 </p>
+
 
 <br/>
 
