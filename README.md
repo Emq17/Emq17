@@ -3,10 +3,30 @@
 <p align="center"><b>Knowledge in Action</b></p>
 
 <p align="center">
-I build and iterate on real projects across web applications, data, and IT infrastructure, focused on turning ideas and processes into reliable, working systems.
+I build and iterate on real projects across data, analytics, and software, focused on turning ideas and processes into reliable, working systems.
 </p>
 
 <br/>
+
+<p align="center"><b>🌐 Personal Site</b></p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/emmette-website">Website</a>
+</p>
+
+<!-- Optional: add your live site link here once you have it -->
+<!-- <p align="center"><a href="https://your-site-url.com">your-site-url.com</a></p> -->
+
+<br/>
+
+<p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/quantitative-strategy-research">Quantitative Strategy Research (Discreet) — Backtesting, Monte Carlo, Walk-Forward Validation</a>
+</p>
+
+<br/>
+
 
 <p align="center"><b>🧩 Web & Application Development</b></p>
 
@@ -15,9 +35,6 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 <p align="center">
   <a href="https://github.com/Emq17/coffee-shop">Coffee Shop Website</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emq17/emmette-website">Personal Portfolio Website</a>
 </p>
 <p align="center">
   <a href="https://github.com/Emq17/dog-site">Playful Pet UI</a>
@@ -42,6 +59,13 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 
 <br/>
+
+<p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
+
+<p align="center">
+  Upcoming projects focused on building interactive dashboards for business performance, operational metrics, and decision support.
+</p>
+
 <br/>
 
 <p align="center"><b>🖥️ IT, Cloud & Infrastructure</b></p>
@@ -63,7 +87,6 @@ I build and iterate on real projects across web applications, data, and IT infra
 </p>
 
 <br/>
-<br/>
 
 <p align="center"><b>📊 Excel</b></p>
 
@@ -71,7 +94,6 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
 </p>
 
-<br/>
 <br/>
 
 <p align="center"><b>🔐 VPNs & Version Control</b></p>
@@ -83,7 +105,6 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/Emq17/Version-Control-Using-Git-for-Gitlab">Implementing Version Control and Repository Management (GitLab)</a>
 </p>
 
-<br/>
 <br/>
 
 <p align="center"><b>🎫 Help Desk Ticketing (osTicket)</b></p>
@@ -98,7 +119,6 @@ I build and iterate on real projects across web applications, data, and IT infra
   <a href="https://github.com/NetProtect1/osTicket-Ticket-Lifecycle-Examples">osTicket: Insights Into Ticket Lifecycles</a>
 </p>
 
-<br/>
 <br/>
 
 <p align="center"><b>⌨️ Keyboard Proficiency</b></p>
