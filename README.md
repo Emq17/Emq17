@@ -31,7 +31,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>🧩 Web & Application Development</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/travel-agency-backend-api">Travel Booking Backend API (Spring Boot + MySQL)</a>
+  <a href="https://github.com/Emq17/travel-agency-backend-api">Travel Agency Backend API (Spring Boot + MySQL)</a>
 </p>
 <p align="center">
   <a href="https://github.com/Emq17/surf-shop-inventory-manager">Surf Shop Inventory Manager (Spring MVC + Thymeleaf)</a>
