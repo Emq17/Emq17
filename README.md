@@ -11,7 +11,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>🌐 Personal Site</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/emmette-website">Website</a>
+  <a href="https://emq17.vercel.app">Website</a>
 </p>
 
 <!-- Optional: add your live site link here once you have it -->
