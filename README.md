@@ -16,9 +16,6 @@ I build and iterate on real projects across data, analytics, and software, focus
   <a href="https://github.com/Emq17/personal-site">Source Code</a>
 </p>
 
-<!-- Optional: add your live site link here once you have it -->
-<!-- <p align="center"><a href="https://your-site-url.com">your-site-url.com</a></p> -->
-
 <br/>
 
 <p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
@@ -57,9 +54,13 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center">
   <a href="https://github.com/Emq17/spring-angular-hotel-booking-service">Spring + Angular - Hotel Booking System</a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Emq17/coffee-shop">Coffee Shop Website</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Emq17/coffee-shop">Source Code</a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Emq17/dog-site">Playful Pet UI</a>
 </p>
