@@ -62,8 +62,11 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/dog-site">Playful Pet UI</a>
+  <a href="https://canipetyourdog.vercel.app/">Playful Pet UI</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Emq17/dog-site">Source Code</a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Emq17/Password-Automation/tree/main">Password Automation</a>
 </p>
