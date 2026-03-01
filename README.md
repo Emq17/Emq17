@@ -35,7 +35,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>🧩 Web & Application Development</b></p>
 
 <p align="center">
-  <a href="chess-intelligence-platform.vercel.app">Chess Intelligence Platform</a>
+  <a href="https://chess-intelligence-platform.vercel.app/hobby/chess">Chess Intelligence Platform</a>
 </p>
 
 <p align="center">
