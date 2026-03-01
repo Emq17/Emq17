@@ -35,8 +35,11 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>🧩 Web & Application Development</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/logistics-routing-engine">
-    Logistics Routing Engine (Python) — Data Structures, Algorithms, & Optimization
+  <a href="https://github.com/Emq17/chess-intelligence-platform">Chess Intelligence Platform</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/logistics-routing-engine">Logistics Routing Engine (Python) — Data Structures, Algorithms, & Optimization
   </a>
 </p>
 
