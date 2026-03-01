@@ -22,7 +22,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/quantitative-strategy-research">Backtesting, Monte Carlo, Walk-Forward Optimization</a>
+  <a href="https://github.com/Emq17/quantitative-strategy-research">NASDAQ 3200T</a>
 </p>
 
 <br/>
