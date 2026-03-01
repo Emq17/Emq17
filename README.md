@@ -24,11 +24,11 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/quantitative-strategy-research">NASDAQ - 3200T</a>
+  <a href="https://github.com/Emq17/quantitative-strategy-research">NASDAQ 3200T</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/bitcoin-system">Bitcoin - 15M</a>
+  <a href="https://github.com/Emq17/bitcoin-system">Bitcoin 15M</a>
 </p>
 
 <br/>
@@ -37,7 +37,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>🧩 Web & Application Development</b></p>
 
 <p align="center">
-  <a href="https://chessintelligenceplatform.vercel.app/"><b>Chess Intelligence Platform</b></a>
+  <a href="https://chessintelligenceplatform.vercel.app/">Chess Intelligence Platform</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/Emq17/chess-intelligence-platform">Source Code</a>
 </p>
