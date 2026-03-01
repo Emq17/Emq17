@@ -25,6 +25,10 @@ I build and iterate on real projects across data, analytics, and software, focus
   <a href="https://github.com/Emq17/quantitative-strategy-research">NASDAQ 3200T</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Emq17/bitcoin-system">Bitcoin 15M</a>
+</p>
+
 <br/>
 
 
