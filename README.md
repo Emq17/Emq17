@@ -21,11 +21,15 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/bitcoin-system">Bitcoin / U.S. Dollar</a>
+  <a href="https://github.com/Emq17/quantitative-strategy-research">Futures - NQ 3200T</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/quantitative-strategy-research">NQ 3200T</a>
+  <a href="https://github.com/Emq17/bitcoin-system">Bitcoin / U.S. Dollar - Analysis</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/btc-usd-research">BTC - Pattern Recognition</a>
 </p>
 
 <br/>
