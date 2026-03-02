@@ -44,7 +44,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/coffee-shop">Coffee Shop Website</a>
+  <a href="angelcoffeeshop.vercel.app/home">Coffee Shop Website</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/Emq17/coffee-shop">Source Code</a>
 </p>
