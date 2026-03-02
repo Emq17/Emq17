@@ -52,7 +52,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <p align="center">
-  <a href="https://github.com/Emq17/spring-angular-hotel-booking-service">Spring + Angular - Hotel Booking System</a>
+  <a href="https://github.com/Emq17/spring-angular-hotel-booking-service">Hotel Booking System (Spring + Angular)</a>
 </p>
 
 <p align="center">
