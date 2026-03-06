@@ -1,6 +1,6 @@
-<h1 align="center">Emmette Quiambao </h1>
+<h1 align="center">Knowledge in Action </h1>
 
-<p align="center"><b>Knowledge in Action</b></p>
+
 
 <p align="center">
 I build and iterate on real projects across data, analytics, and software, focused on turning ideas and processes into reliable, working systems.
