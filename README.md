@@ -1,4 +1,4 @@
-<h1 align="center">Emmette Q | Orlando, FL ☀️🌴 </h1>
+<h1 align="center">Emmette Q. | Orlando, FL 🌴 </h1>
 
 <p align="center"><b>Knowledge in Action</b></p>
 
