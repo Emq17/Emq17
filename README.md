@@ -96,7 +96,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
 
 <p align="center">
-  <a href="https://tableau.com](https://public.tableau.com/app/profile/em.q/vizzes">Interactive dashboards for business performance, operational metrics, and decision support.</a>
+  <a href="https://public.tableau.com/app/profile/em.q/vizzes">Interactive dashboards for business performance, operational metrics, and decision support.</a>
 </p>
 
 
