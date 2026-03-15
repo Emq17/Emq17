@@ -93,7 +93,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
+<p align="center"><b>📊 Data Visualization (Dashboards)</b></p>
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/em.q/vizzes">Tableau</a>
