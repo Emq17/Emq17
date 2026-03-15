@@ -93,12 +93,15 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📊 Analytics & Data Visualization</b></p>
+<p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/em.q/vizzes">Interactive dashboards</a>
+  <a href="https://public.tableau.com/app/profile/em.q/vizzes">Tableau</a>
 </p>
 
+<p align="center">
+  <a href="https://app.powerbi.com/home?experience=power-bi">Power BI</a>
+</p>
 
 <br/>
 
