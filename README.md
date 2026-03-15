@@ -93,7 +93,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📊 Data Visualization (Dashboards)</b></p>
+<p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/em.q/vizzes">Tableau</a>
@@ -101,6 +101,10 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <p align="center">
   <a href="https://app.powerbi.com/home?experience=power-bi">Power BI</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/VLOOKUP-Function">Excel</a>
 </p>
 
 <br/>
@@ -124,12 +128,6 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <br/>
-
-<p align="center"><b>📊 Excel</b></p>
-
-<p align="center">
-  <a href="https://github.com/Emq17/VLOOKUP-Function">VLOOKUP & Pivot Tables</a>
-</p>
 
 <br/>
 
