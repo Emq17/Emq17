@@ -129,8 +129,6 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<br/>
-
 <p align="center"><b>🔐 VPNs & Version Control</b></p>
 
 <p align="center">
