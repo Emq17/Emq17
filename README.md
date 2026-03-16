@@ -96,6 +96,10 @@ I build and iterate on real projects across data, analytics, and software, focus
 <p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
 
 <p align="center">
+  <a href="https://coursecareers.com/courses/data-analytics-course">Course Careers (Python Project)</a>
+</p>
+
+<p align="center">
   <a href="https://public.tableau.com/app/profile/em.q/vizzes">Tableau</a>
 </p>
 
