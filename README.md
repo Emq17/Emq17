@@ -18,7 +18,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📈 Quantitative Market Analytics & Research</b></p>
+<p align="center"><b>📈 Quantitative Market Research</b></p>
 
 <p align="center">
   <a href="https://github.com/Emq17/quantitative-strategy-research">Futures - NQ 3200T</a>
@@ -93,7 +93,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📊 Analytics & Data Visualization (Dashboards)</b></p>
+<p align="center"><b>📊 Analytics & Data Visualization</b></p>
 
 <p align="center">
   <a href="https://coursecareers.com/courses/data-analytics-course">Course Careers (Python Project)</a>
@@ -109,6 +109,10 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <p align="center">
   <a href="https://github.com/Emq17/VLOOKUP-Function">Excel</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/matplotlib">Matplotlib</a>
 </p>
 
 <br/>
