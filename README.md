@@ -18,7 +18,11 @@ I build and iterate on real projects across data, analytics, and software, focus
 
 <br/>
 
-<p align="center"><b>📈 Quantitative Market Research</b></p>
+<p align="center"><b>📈 Market Research</b></p>
+
+<p align="center">
+  <a href="https://github.com/Emq17/adaptive-financial-prediction-framework">BTC - Machine Learning Model</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Emq17/quantitative-strategy-research">Futures - NQ 3200T</a>
