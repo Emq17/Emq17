@@ -104,7 +104,7 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/em.q/vizzes">Tableau</a>
+  <a href="https://public.tableau.com/app/profile/emq/vizzes">Tableau</a>
 </p>
 
 <p align="center">
@@ -115,9 +115,6 @@ I build and iterate on real projects across data, analytics, and software, focus
   <a href="https://github.com/Emq17/VLOOKUP-Function">Excel</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Emq17/matplotlib">Matplotlib</a>
-</p>
 
 <br/>
 
