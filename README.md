@@ -53,6 +53,10 @@ I build and iterate on real projects across data, analytics, and software, focus
   <a href="https://github.com/Emq17/coffee-shop">Source Code</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Emq17/apple-health-workout-analyzer">Apple Health Workout Analyzer
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Emq17/logistics-routing-engine">Logistics Routing Engine (Python) - Data Structures, Algorithms, & Optimization
