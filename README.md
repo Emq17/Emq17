@@ -54,6 +54,11 @@ I build and iterate on real projects across data, analytics, and software, focus
 </p>
 
 <p align="center">
+  <a href="https://github.com/Emq17/Vessel-VSL-iOS-APP">VSL - IOS Mobile Application
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Emq17/apple-health-workout-analyzer">Apple Health Workout Analyzer
   </a>
 </p>
